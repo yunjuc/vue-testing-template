@@ -2,7 +2,6 @@
   "name": "vue-app",
   "version": "1.0.0",
   "description": "",
-  "author": "",
   "scripts": {
     "build": "webpack -p",
     "start": "webpack-dev-server --open",
@@ -41,7 +40,5 @@
   },
   "jest": {
     "preset": "@vue/cli-plugin-unit-jest"
-  },
-  "browserslist": "last 2 versions, not dead, not ie > 0",
-  "license": "ISC"
+  }
 }
